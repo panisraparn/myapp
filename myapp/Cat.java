@@ -1,4 +1,4 @@
-package myapp;
+package myapp.myapp;
 
 public class Cat {
     private int no;
